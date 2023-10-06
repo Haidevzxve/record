@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LoginWeb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LoginWeb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
